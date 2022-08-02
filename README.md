@@ -18,3 +18,5 @@ MouseRegion(
   ),
 )
 ```
+
+![](auto-nav-rail.mov.gif)
